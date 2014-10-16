@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bys:home|Door43 (bys)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bys|d43-bys repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bys/archive/master.zip|d43-bys.zip]]
+
+**Recent Changes**
+{{changes>ns = bys}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bys|Ethnologue data]]
+
